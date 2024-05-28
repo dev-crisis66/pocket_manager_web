@@ -6,6 +6,15 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        oswald: "Oswald",
+        sourceSans3: "SourceSans3"
+      },
+      colors: {
+        blue: '#B1DEFF',
+        black: "#141414",
+        white: "#EDEDEF"
+      }
     },
   },
   plugins: [],

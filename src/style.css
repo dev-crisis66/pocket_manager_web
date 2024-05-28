@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Oswald";
+    src: local("Oswald"), url('../src/assets/fonts/Oswald-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'SourceSans3';
+    src: local("SansSource"), url('../src/assets/fonts/SourceSans3-Regular.ttf');
+}
